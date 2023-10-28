@@ -4,7 +4,7 @@ This project allowed me to combine my love for literature and programming. Along
 
 # How to play this game 
 
-### Download the bash shell for windows 
+### Download the bash shell for Windows 
 In Windows PowerShell, type the command: wsl --install    
 Be sure to restart your computer after the installation. 
 
