@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo ""
+echo "~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~"
+echo "~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~"
+echo "~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~"
+echo ""
+echo -e "\"We climbed the dark until we reached the point"
+echo "Where a round opening brought in sight the blest"
+echo "And beauteous shining of the Heavenly cars."
+echo -e "And we walked out once more beneath the Stars.\""
+echo ""
+echo ""
+echo "Congratulations! You have found the secret exit command"
+echo "Thank you for playing."
